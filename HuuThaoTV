@@ -196,7 +196,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/htv7hd.jpg" group-title="HTV",HTV7 HD
 https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/htv9hd.jpg" group-title="HTV",HTV9 HD
-https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/htvccanhachd.jpg" group-title="HTV",HTVC Ca Nhạc HD
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/htvcdulichhd.jpg" group-title="HTV",HTVC Du Lịch HD
