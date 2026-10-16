@@ -99,10 +99,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://dvtshophcm.com/iptv/logo/htv5_b_channel.png", HTV5 - B Channel
 https://dethich.pw/htv5/index.m3u8
-#EXTINF:-1 tvg-logo="https://dvtshophcm.com/iptv/logo/htv7.png" group-title="HTV",HTV7
-https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792058050-NDA4ODc5Mg-0-331555586f54d0d117eaff1e589da261
-#EXTINF:-1 tvg-logo="https://dvtshophcm.com/iptv/logo/htv9.png" group-title="HTV",HTV9
-https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792058097-NDA4ODc5Mg-0-212047ed947bcc863db30cd57c247300
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7
+https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
+https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-logo="https://dvtshophcm.com/iptv/logo/htv_the_thao.png" group-title="HTV",HTV Thể Thao
 https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792058234-NDA4ODc5Mg-0-4bd7348f58b8c9f81996361b59e5604a
 #EXTINF:-1 tvg-logo="https://dvtshophcm.com/iptv/logo/htvc_ca_nhac.png" group-title="HTV",HTVC Ca Nhạc
@@ -121,11 +121,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=132
 https://freem3u.xyz/api/live/play.m3u8?vid=13
 
 #-----------------------Kênh Vĩnh Long-------------------------------#
-#EXTINF:-1 tvg-id="THVL1" group-title="Vĩnh Long" tvg-logo="https://dvtshophcm.com/iptv/logo/thvl1.png",Vĩnh Long 1
-https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792053448-NDA4ODc5Mg-0-00a524f9e9349fddd670dde3ef6040f8
-#EXTINF:-1 tvg-id="THVL2" group-title="Vĩnh Long" tvg-logo="https://dvtshophcm.com/iptv/logo/thvl2.png",Vĩnh Long 2
-https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792053524-NDA4ODc5Mg-0-a057107a1a92b2d87c32f075fb7eefb8
-#EXTINF:-1 tvg-id="THVL3" group-title="Vĩnh Long" tvg-logo="https://dvtshophcm.com/iptv/logo/thvl3.png",Vĩnh Long 3
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pTVybK6.png",Vĩnh Long 1
+https://freem3u.xyz/api/live/play.m3u8?vid=25
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
+https://freem3u.xyz/api/live/play.m3u8?vid=26
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/44c1Yoz.png",Vĩnh Long 3
+https://freem3u.xyz/api/live/play.m3u8?vid=219
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792053604-NDA4ODc5Mg-0-5c4feae7c028b894b01448b5eff92d44
 #EXTINF:-1 tvg-id="THVL4" group-title="Vĩnh Long" tvg-logo="https://dvtshophcm.com/iptv/logo/thvl4.png",Vĩnh Long 4
 https://freem3u.xyz/api/live/play.m3u8?vid=220
@@ -155,8 +156,8 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/XrFQ7Ysd/DN3.png",Đồng Nai 3
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
